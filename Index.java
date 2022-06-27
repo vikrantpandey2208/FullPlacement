@@ -31,5 +31,30 @@ P3 		4. Maximum largest subarray using kadane algorithm
 
 26-06-2022
 	// Package Recursion
+	1. Josephus Problem - Josephus
+	2. Towers of hanoi - Toh
+	3. Generate Subsets String - GenSubset
+	4. Rope cutting problem - RopeCutting
+	
+27-06-2022
+	// Package Recursion | Total 19 program this package
+	1. Generating sum of digit using recursion - SumDigitRecursive
+	2. Generating sum of digit using iteration - SumDigitIterative
+	3. Checking string palindrome - PalindromeRecursive
+	4. Sum of first n numbers recursion - SumOfN
+	5. Factorial - Factorial
+	6. Nth fibonacci number - FibonacciNth
+	7. Print N to 1 - NToOne
+	8. Print 1 to N - OneToN
+	9. Print 1 to N tail recursive - OneToNTail
+	10. Factorial calculation tail recursive - FactorialTail
+	11. Generate log(base) floor base can be any number - Logarithm
+	12. Print binaray equivalent of number - ToBinary
+	
+	// Package Iteration1
+	13. 
+	
+	
+	
 	
 		

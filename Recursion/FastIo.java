@@ -1,4 +1,13 @@
-package RecursionClasses;
+// driver code
+	public static void main(String args[]){
+		io = new FastIo();
+		io.println("enter number of disks");
+		
+		toh(io.nextInt(), 'A', 'B', 'C');
+		
+		io.println("");
+		io.println("Done Code Run");
+	}package RecursionClasses;
 
 import java.io.BufferedReader;
 import java.util.StringTokenizer;
